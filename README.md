@@ -1,7 +1,7 @@
 # arp_spoofing
 [scapy](https://scapy.readthedocs.io/en/latest/index.html)
 * ARP spoofing in python3 using scapy
-* fools the victim's computer that we are the router and the router thinks that we are the victim
+* Fools the victim's computer that we are the router and the router thinks that we are the victim
 
 ## install scapy
 * cd /tmp
