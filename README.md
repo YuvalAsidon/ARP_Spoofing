@@ -8,6 +8,11 @@
 * git clone https://github.com/phaethon/scapy
 * sudo python3 setup.py install
 
+## install sslstrip
+* if you are running the new kali:
+ * add to the source.list --> deb http://old.kali.org/kali sana main non-free contrib
+ * only then -->  sudo apt-get install sslstrip
+
 ## how to use:
 * enable packets to flow though the kali just like a router
   * sudo bash -c 'echo 1 > /proc/sys/net/ipv4/ip_forward'
