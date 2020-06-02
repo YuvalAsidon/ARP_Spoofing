@@ -9,7 +9,7 @@
 * sudo python3 setup.py install
 
 ## install sslstrip
-* if you are running the new kali:
+if you are running the new kali:
  * add to the source.list --> deb http://old.kali.org/kali sana main non-free contrib
  * only then -->  sudo apt-get install sslstrip
 
